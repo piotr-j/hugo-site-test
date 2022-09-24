@@ -1,4 +1,4 @@
-baseURL = ' https://www.piotrjastrzebski.io/hugo-site-test/'
+baseURL = 'https://www.piotrjastrzebski.io/hugo-site-test/'
 languageCode = 'en-us'
 title = 'My New Hugo Test Site'
 theme = 'ananke'
